@@ -42,3 +42,6 @@ env/
 # 忽略其他临时文件
 .cache/
 .temp/
+
+# 忽略嵌套的Git仓库
+热点分析TrendRadar/
