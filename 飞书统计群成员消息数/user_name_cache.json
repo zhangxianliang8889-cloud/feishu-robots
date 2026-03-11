@@ -1,0 +1,560 @@
+{
+  "ou_2cc8cfa1ea26b7c85cf555d4f9faf0a1": {
+    "name": "黄小七",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "策划二部"
+  },
+  "ou_ab8a982d6ab63a0ea19ffea8137d730b": {
+    "name": "蒋文卿",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_6436630a56a343cd9ac43b847906e4af": {
+    "name": "张贤良",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_f8e68f7110aaefe36f19fdf9b71c02b0": {
+    "name": "蔡艺云",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_3435cfe671788ae5f34ddfc578293663": {
+    "name": "龚群杰",
+    "last_seen": "2026-03-07 07:59:34",
+    "status": "active",
+    "source_group": "人力资源部"
+  },
+  "ou_bfa90b76c0d8b0f51e5a31f48f19d81f": {
+    "name": "沈佳恩",
+    "last_seen": "2026-03-07 07:59:34",
+    "status": "active",
+    "source_group": "人力资源部"
+  },
+  "ou_f4d1660a071b1851cff57eb1e2c8be94": {
+    "name": "左慧姣",
+    "last_seen": "2026-03-07 07:59:34",
+    "status": "active",
+    "source_group": "人力资源部"
+  },
+  "ou_c52fef2e725dc9966c8fa83a959eaf7a": {
+    "name": "曾金锋",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效AI研究小队"
+  },
+  "ou_3bc252100494d96f3ca3dd9b10812a47": {
+    "name": "陈星",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_63134855eed11b54ad6f6467a6342581": {
+    "name": "陈秋霞",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_3a84fad7d293c4ea48678d200d105511": {
+    "name": "方良福",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_58a46bedfa5a35ea49cc4e98b2e5c11d": {
+    "name": "高宇嫣",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_9029c88f28fe8218aa53e030f324aeac": {
+    "name": "哈超强",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_1b010ccbf4989e03fcf16d35037924d3": {
+    "name": "候柏曙",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效AI研究小队"
+  },
+  "ou_3431b5948ed6c3e4a811a4899a5e1799": {
+    "name": "胡永艺",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效AI研究小队"
+  },
+  "ou_414305717d7399817785eee84c0e891e": {
+    "name": "黄华",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_a613dd67dca840bea937cfbfd2b3a8ef": {
+    "name": "黄薇",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_eeca45bc16f58f1ba2f4628672f44e36": {
+    "name": "雷欣",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_9838fceed8fe743ff561a7b23bc7a4da": {
+    "name": "林仁杰",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_4ca4aedf3982ce5f4cf2fe01df9eab69": {
+    "name": "罗艺洁",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_ef43b9fa3072e645462b09fc88e5e647": {
+    "name": "倪晖",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_4ce8ea607523b138161ca5de4c6f2378": {
+    "name": "苏学鸿",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_4f26014be3d24bd4c7e9b1ed29702c7b": {
+    "name": "杨杰淞",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_ea53349d761865311efbeec63b3907fa": {
+    "name": "韦永强",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效AI研究小队"
+  },
+  "ou_7eafc10d509843d7b4ec0a9b41bd0971": {
+    "name": "张朋",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_9df4c17eafd91696f5d14523e653a219": {
+    "name": "张跃辉",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_9623f461b1ea1c6a315a11fc3e6d51d6": {
+    "name": "王艺",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_18048f8eea7b38ddc43bcc1a15535531": {
+    "name": "付双",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "视效部"
+  },
+  "ou_4cbebe47b1ea73a6cbef3cbddbfc7bbc": {
+    "name": "罗峰",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "视效月会"
+  },
+  "ou_82e77e9ec30fc6231e6c9e5b90d0ab24": {
+    "name": "张怡萱",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划一组"
+  },
+  "ou_6bd7c878d7d87f11fae166d63eda8fb7": {
+    "name": "王上嘉",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划一组"
+  },
+  "ou_0e17cef6eef61a0d38d64b53e180cf67": {
+    "name": "王雨石",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划一组"
+  },
+  "ou_0b73d71478f029969e32c5a32fc77223": {
+    "name": "李艺倩",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划一组"
+  },
+  "ou_694120137d5ed4a9412fb2a20a4e23e8": {
+    "name": "姚远",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_2e2490551d136789117b58722b41703a": {
+    "name": "陈卫军",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_dade000e4ae897abe94b3eaeb91bfa4d": {
+    "name": "冯浩航",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_b46448bdca42289102b25bd6d063e4a1": {
+    "name": "黄诗婷",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_f047880145aef1e25b65a30610e63458": {
+    "name": "赖燕凤",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_5d8d495b09cd61b0d054024f086dd96c": {
+    "name": "宋小艺",
+    "last_seen": "2026-03-07 07:59:35",
+    "status": "active",
+    "source_group": "策划三部"
+  },
+  "ou_dfa8b62120bc18d33a53b406cf310a19": {
+    "name": "穆富祥",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "策划二部"
+  },
+  "ou_a0851ddfd4f69a7220715af9909b5275": {
+    "name": "梁烨铭",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "策划二部"
+  },
+  "ou_0181a2547636ddc50794326d5c69335a": {
+    "name": "林语婷",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "策划二部"
+  },
+  "ou_3efa195619f0c80aeeb6bf54a699bbd1": {
+    "name": "洪永进",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_21b2908bf7f30930805a96e9c53ca90a": {
+    "name": "吴诗雨",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_3e7638421229c5887255c249b558b41a": {
+    "name": "陈鑫涛",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_e31b05f5d0475f6a0f8cf59427bcf555": {
+    "name": "邓思文",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_987a3b70f97fdcdc271f9997283e0031": {
+    "name": "林燕",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_1514aea106879f0788f82d4df98b604f": {
+    "name": "石孟",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_918406112285f5c280dfb1a7c7bc9aab": {
+    "name": "肖艳妮",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_56c421972dc21e5668922c24a3bfe32c": {
+    "name": "吴梦凡",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_099a57a6cafd38b6ffeb73a17d43b6c6": {
+    "name": "胡慧敏",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_9281f82f348e360432c1867a7643a051": {
+    "name": "张帆",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_7f8b2df5ad22a2e29b47291507844a35": {
+    "name": "宁宁子",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_ba425668beb1623be5d679ea4f79419a": {
+    "name": "董曜然",
+    "last_seen": "2026-03-07 07:59:36",
+    "status": "active",
+    "source_group": "项目市场二部"
+  },
+  "ou_9d2ef173dca0f4d6d05ec3f742809324": {
+    "name": "谢岚琛",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_46fabdd87f447485353b50f75c0aa63a": {
+    "name": "陈文杰",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_865d0733604a588f3bfe4c981a562842": {
+    "name": "沈启明",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_a34f221666511306289e55ee19783c4c": {
+    "name": "张城铭",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_d5521fd539b12200b83c4cfcb1b1316e": {
+    "name": "陈海燕",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_ebd6f497174cc69a6467d099d4ebedac": {
+    "name": "侯宝玲",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_7daceafa2b64a581e97b62cdb9d963e0": {
+    "name": "彭云蕾",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_38e81acef04dbfa38e7d82a3c9045792": {
+    "name": "罗志敏",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_b6b4d6c6b68e8ebd381a561c18d15ae6": {
+    "name": "官月欢",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_03b29fe941f448ba9108cc945f6fe941": {
+    "name": "杨鑫玉",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_a58855a874980f7ec265a54a4fbf0dd2": {
+    "name": "郑贵成",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_0912df228a748a76bae3e515b148d5e2": {
+    "name": "郭伟华",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_5644bea7808ff4071d2a3b3f2d217f88": {
+    "name": "俞丽苹",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_acdf6e33e0633038d700dbbb2c96d1ec": {
+    "name": "罗家琛",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "饿狼传说"
+  },
+  "ou_ded1e19c003cdf07d2d657970861177b": {
+    "name": "赖伟枫",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_59378a2eb3e63994cc749b4afd7a3eee": {
+    "name": "王子迅",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_98aae0b56a8f1b40ed33f251b20d9049": {
+    "name": "陆岳生",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_33fad19a436b889790e7516c5ebab82b": {
+    "name": "苗兰草",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_da3336331702eaa57f7a929fe613262f": {
+    "name": "林小龙",
+    "last_seen": "2026-03-07 07:59:37",
+    "status": "active",
+    "source_group": "个人测试群组"
+  },
+  "ou_916b548eb0f2c2d236d3794cb4d3706d": {
+    "name": "用户538894",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_b13b70860ca7f1341602121bc9a07032": {
+    "name": "林升",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_87f936f88ce3b13fee49b78bdfbb3e9d": {
+    "name": "刘彦坤",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_412654fb58d74ab1e7309397b6937cee": {
+    "name": "邓子豪",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_b54f49a28aeb53085b36950067ce70b3": {
+    "name": "林绍贤",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_6bbed0e2824afb88cc7cee06cdf0b6cc": {
+    "name": "郑琳",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_b38b021814f9ff49499e082d1818fcdf": {
+    "name": "徐煜",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_469f91259d7c248480ac7d0d1bf986df": {
+    "name": "何洁瑜",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_c992af7535ebf04a5e9af3216bad906a": {
+    "name": "郭丹妮",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_118f61ee9b214824d62d33aac617a8b5": {
+    "name": "蔡婷婷",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_a6b37201fc3356b4cbb4e647b3b1306a": {
+    "name": "张梦华",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "英璨市场部大群"
+  },
+  "ou_cb3434a50f7db12dcee773d1a6423eef": {
+    "name": "丁婕",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_2d587833f670a3b99b820e809e33f4ca": {
+    "name": "林益祥",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_106ceb375e0c85ce60922a4b921b9f94": {
+    "name": "刘李兵",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_3ce0e7382e91e33bb45ded9d849dba23": {
+    "name": "黄妍雨",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_69bee637811bbf306091d3f8815403b8": {
+    "name": "陈鹭",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_5dee6c2c6b632d10c885e4b7d9c5fe97": {
+    "name": "范曦月",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_beaa25831a9a2b46a0da2d753cb8d0ca": {
+    "name": "曾惠斌",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_64fb6f246b24f8f93e7b047d250281d9": {
+    "name": "陈晶莹",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  },
+  "ou_ff4574ebfeb83201b1f8c6796b0e2f3a": {
+    "name": "钟金娜",
+    "last_seen": "2026-03-07 07:59:38",
+    "status": "active",
+    "source_group": "项目一部"
+  }
+}

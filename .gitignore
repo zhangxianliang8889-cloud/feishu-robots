@@ -1,0 +1,44 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略日志文件
+logs/
+*.log
+
+# 忽略配置文件（包含敏感信息）
+config.py
+
+# 忽略备份文件
+backup_*/
+
+# 忽略部署包
+deploy_package/
+
+# 忽略pid文件
+*.pid
+
+# 忽略临时文件
+*.tmp
+*.temp
+
+# 忽略编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略环境文件
+.env
+venv/
+env/
+
+# 忽略其他临时文件
+.cache/
+.temp/

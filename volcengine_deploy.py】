@@ -1,0 +1,111 @@
+# 服务器配置
+SERVERS = [
+    {
+        "name": "豆包火山云服务器",
+        "ip": "115.191.47.166",  # 替换为实际公网IP
+        "username": "root",
+        "password": "YOUR_PASSWORD",  # 替换为您设置的密码
+        "note": "豆包火山云服务器"
+    }
+]
+
+
+#!/usr/bin/env python3
+"""
+豆包火山云服务器部署脚本
+"""
+import os
+import subprocess
+import time
+
+# 服务器配置
+SERVERS = [
+    {
+        "name": "豆包火山云服务器",
+        "ip": "115.191.47.166",  # 替换为实际IP
+        "username": "root",
+        "password": "YOUR_PASSWORD",  # 替换为实际密码
+        "note": "豆包火山云服务器"
+    }
+]
+
+def test_connection(server):
+    """测试服务器连接"""
+    print(f"\n🔍 测试连接: {server['name']} ({server['ip']})")
+    
+    # 测试ping
+    result = subprocess.run(
+        ["ping", "-c", "2", server["ip"]],
+        capture_output=True,
+        text=True,
+        timeout=10
+    )
+    
+    if result.returncode == 0:
+        print(f"   ✅ Ping成功")
+        return True
+    else:
+        print(f"   ❌ Ping失败")
+        return False
+
+def deploy_to_server(server):
+    """部署到服务器"""
+    print(f"\n🚀 部署到: {server['name']} ({server['ip']})")
+    
+    # 创建部署目录
+    create_dir_cmd = f"sshpass -p '{server['password']}' ssh {server['username']}@{server['ip']} 'mkdir -p /root/feishu_bots'"
+    print(f"   创建目录: {create_dir_cmd}")
+    result = subprocess.run(create_dir_cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"   ❌ 创建目录失败: {result.stderr}")
+        return False
+    
+    # 上传代码
+    upload_cmd = f"sshpass -p '{server['password']}' scp -r /Users/yueguangbaohe/Documents/trae_projects/pi_digits {server['username']}@{server['ip']}:/root/feishu_bots/"
+    print(f"   上传代码: {upload_cmd}")
+    result = subprocess.run(upload_cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"   ❌ 上传代码失败: {result.stderr}")
+        return False
+    
+    # 安装依赖
+    install_deps_cmd = f"sshpass -p '{server['password']}' ssh {server['username']}@{server['ip']} 'pip3 install requests schedule paramiko -q && yum install screen -y 2>/dev/null || apt install screen -y 2>/dev/null'"
+    print(f"   安装依赖: {install_deps_cmd}")
+    result = subprocess.run(install_deps_cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"   ⚠️  安装依赖失败: {result.stderr}")
+    
+    # 启动机器人
+    start_bots_cmd = f"sshpass -p '{server['password']}' ssh {server['username']}@{server['ip']} 'cd /root/feishu_bots/pi_digits/每日群纪要总结 && screen -dmS meeting_bot python3 群会议纪要_最终版.py && cd /root/feishu_bots/pi_digits/飞书统计群成员消息数 && screen -dmS stats_bot python3 多群统计.py'"
+    print(f"   启动机器人: {start_bots_cmd}")
+    result = subprocess.run(start_bots_cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"   ❌ 启动机器人失败: {result.stderr}")
+        return False
+    
+    # 检查运行状态
+    check_status_cmd = f"sshpass -p '{server['password']}' ssh {server['username']}@{server['ip']} 'ps aux | grep python | grep -v grep && screen -ls'"
+    print(f"   检查运行状态: {check_status_cmd}")
+    result = subprocess.run(check_status_cmd, shell=True, capture_output=True, text=True)
+    print(f"   运行状态:\n{result.stdout}")
+    
+    print(f"   ✅ 部署成功！")
+    return True
+
+def main():
+    """主函数"""
+    print("============================================================")
+    print("🚀 豆包火山云服务器部署脚本")
+    print("============================================================")
+    
+    for server in SERVERS:
+        if test_connection(server):
+            deploy_to_server(server)
+        else:
+            print(f"   ⚠️  跳过部署: {server['name']}")
+
+if __name__ == "__main__":
+    main()
+
+# 安装sshpass（用于自动输入密码）
+brew install sshpass

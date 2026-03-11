@@ -1,0 +1,53 @@
+{
+  "total_sends": 10,
+  "success_sends": 10,
+  "fail_sends": 0,
+  "last_send_time": "2026-03-07 09:00:34",
+  "groups": {
+    "人力资源部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "视效部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "视效AI研究小队": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "策划一组": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "策划三部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "策划二部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "项目市场二部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    },
+    "张贤良测试群": {
+      "total": 2,
+      "success": 2,
+      "fail": 0
+    },
+    "项目一部": {
+      "total": 1,
+      "success": 1,
+      "fail": 0
+    }
+  }
+}
